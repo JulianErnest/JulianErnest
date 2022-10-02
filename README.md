@@ -16,3 +16,13 @@
 - Bread-chase 🍞 this year, so next year I can focus on my own start-up ideas & school
 - Learn native development 📱
 - Dive more into backend development 🔍
+
+### 📫 How to reach me
+[<img src="Facebook.svg" alt="Julian Ernest Camello on facebook" title="Julian Ernest Camello on Facebook"/>](https://facebook.com/julianernest.adlawan)
+[<img src="LinkedIN.svg" alt="Julian Ernest Camello on facebook" title="Julian Ernest Camello on Facebook"/>](https://www.linkedin.com/in/julian-ernest-camello-b2a394212/)
+[<img src="Twitter.svg" alt="Julian Ernest Camello on facebook" title="Julian Ernest Camello on Facebook"/>](https://twitter.com/batyoung_nub)
+[<img src="Instagram.svg" width=50 height=50 alt="Julian Ernest Camello on facebook" title="Julian Ernest Camello on Facebook"/>](https://instagram.com/yaboiern)
+[<img src="Upwork.svg" width=50 height=50 alt="Julian Ernest Camello on facebook" title="Julian Ernest Camello on Facebook"/>](https://www.upwork.com/freelancers/~01affdf65ff2e5788f)
+
+### 💹 My GitHub metrics
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianernest&theme=tokyonight&show_icons=true)

@@ -13,7 +13,7 @@
 - Upwork [Top Rated](https://www.upwork.com/freelancers/~01affdf65ff2e5788f) & in the front page of [mobile developers](https://www.upwork.com/hire/mobile-app-developers/ph/) & [react native developers](https://www.upwork.com/hire/react-native-developers/ph/) (PH) 
 
 ### 📝 My plans 
-- Bread-chase 🍞 this year, so next year I can focus on my own start-up ideas & school
+- Start working on personal projects after I finish my contracts 📜
 - Learn native development 📱
 - Dive more into backend development 🔍
 

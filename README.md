@@ -26,3 +26,19 @@
 
 ### 💹 My GitHub metrics
 ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianernest&theme=tokyonight&show_icons=true)
+
+
+<details><summary>Extra Info</summary>
+
+<div>
+    <h4>Check out the music i listen to 🎵</h4>
+    <a href="https://www.data-card-for-spotify.com/card?user_id=julzelx21">
+    <img src="https://www.data-card-for-spotify.com/api/card?user_id=julzelx21" alt="Data Card for Spotify">
+  </a>
+</div>
+
+### 🔨 Repos that helped with this readme 
+- https://github.com/anuraghazra/github-readme-stats 
+- https://github.com/magic-ike/spotify-data-card
+
+</details>
